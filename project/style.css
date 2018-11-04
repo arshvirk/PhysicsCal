@@ -1,0 +1,149 @@
+
+
+body{
+  background-color: blue;
+ }
+
+ .pro{
+  position: relative;
+  padding-top: 40px;
+  margin-top: -40px;
+ }
+
+  header {
+  	padding: 20px 0;
+  	position :fixed;
+  	z-index: 10;
+  	background-color: white;
+  	margin: 0 auto;
+    background-color: black;
+  	min-width: 100%;
+  }
+
+  .bar1, .bar2, .bar3{
+  width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+  }
+
+  header .row h4 {
+	color: white;
+  }
+
+  nav h4{
+  	display: inline-block;
+  	color:white;
+  }
+
+  h4 a{
+  color : white;
+  }
+   li h4{
+   	color:white;
+   }
+
+  li input{
+ 	border:2px solid black;
+ 	width:60%;  
+  }
+
+  input[placeholder]{
+ 	text-align:right;
+  }
+ h2{
+ 	padding-top:80px;
+ 
+
+ }
+ #inst{
+ 	color:black;
+ }
+
+
+  figure ul{
+  
+ 	background-image: url("texture-1516370.jpg");
+ 	background-size: 500px 600px;
+      list-style-type: none;
+     border-radius: 20px;
+     border:solid;
+     width: 400px;
+  }
+
+ .jumbotron{
+   background-color:transparent;
+   position: sticky;
+ 	top:-30px;
+ 	 background-image: url("color-2174050.png");
+ background-size: 1300px 700px;
+
+ }
+
+ .jumbotron .container {
+ 	position:sticky;
+    top: -30px;
+    padding:15px;
+    background-color:transparent;
+   
+    z-index:9;
+    min-width:100%;
+}
+
+ figure{
+ 	top:30px;   
+ }
+ li button{
+ 	margin :10px;
+ }
+
+ #dumb{
+ 	position: relative;
+     z-index:-2;
+ }
+
+
+li{
+  font-size: 20px;
+}
+
+footer {
+	top:80px;
+  min-width: 100%;
+  position: relative;
+  font-size: 12px;
+  padding: 20px 0;
+  margin:80px;
+  border: solid;
+   background-image: url("polygon-1734017.jpg");
+ 	background-size: 1300px 300px;
+  
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+
+button{
+	border-radius: 20px;
+}
+
+ .col-sm-6 .row{
+ 
+   margin-top: 180px;
+   margin-bottom: 180px;
+   background-color: transparent;
+   padding-top: 30px;
+   color:black;
+}
+
+
+
+
+

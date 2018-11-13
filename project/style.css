@@ -34,6 +34,7 @@ body{
   nav h4{
   	display: inline-block;
   	color:white;
+  
   }
 
   h4 a{
@@ -45,7 +46,7 @@ body{
 
   li input{
  	border:2px solid black;
- 	width:60%;  
+ 	width:80%;  
   }
 
   input[placeholder]{
@@ -63,11 +64,10 @@ body{
 
   figure ul{
   
- 	background-image: url("texture-1516370.jpg");
- 	background-size: 500px 600px;
+ 	background-color: transparent;
       list-style-type: none;
      border-radius: 20px;
-     border:solid;
+  
      width: 400px;
   }
 
